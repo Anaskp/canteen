@@ -130,7 +130,7 @@ class AdminHome extends StatelessWidget {
                         .set({
                       'name': _nameController.text,
                       'cost': double.parse(_costController.text),
-                      'quantity': _quantityController.text,
+                      'quantity': double.parse(_quantityController.text),
                     });
                     _nameController.text = '';
                     _costController.text = '';
@@ -199,7 +199,7 @@ class AdminHome extends StatelessWidget {
                         .update({
                       'name': _nameController.text,
                       'cost': double.parse(_costController.text),
-                      'quantity': _quantityController.text,
+                      'quantity': double.parse(_quantityController.text),
                     });
                     _nameController.text = '';
                     _costController.text = '';
