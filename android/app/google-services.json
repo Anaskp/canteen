@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499238572138",
+    "project_id": "canteen-automation-5c424",
+    "storage_bucket": "canteen-automation-5c424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499238572138:android:337564d8bab0830f423a13",
+        "android_client_info": {
+          "package_name": "com.example.canteen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499238572138-f21rpc6pklt0vuqkdovjv8t991jpn5mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClzNo16qP0Ko6Lor5BegfKyCeCgWDwYUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499238572138-f21rpc6pklt0vuqkdovjv8t991jpn5mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
